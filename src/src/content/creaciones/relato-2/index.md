@@ -1,5 +1,5 @@
 ---
-title: Mi primer relato
+title: La Tremenda Historia de Pepe
 layout: short.njk
 ---
 
