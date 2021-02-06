@@ -1,4 +1,7 @@
-# Mi primera página en eleventy
+---
+title: Inicio
+layout: base.njk
+---
 
 Aquí es donde se escribirían los contenidos en html
 
